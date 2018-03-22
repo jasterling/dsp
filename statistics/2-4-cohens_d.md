@@ -2,7 +2,7 @@
 
 >> 
 '''
-No results yet, because I don't yet know where the data is coming from. Unsure of how
+No results because I don't yet know where the data is coming from. Unsure of how
 to incorporate the data into the actual code.
 
 Below is my answer for comparing the cohen's d of weight and length in first babies
