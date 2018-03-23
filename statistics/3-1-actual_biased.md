@@ -10,8 +10,8 @@ for you. I was trying to work through that process manually which was... unneces
 After getting the dataframe set up, the solution was straightfoward based on the chapter's description of the 
 biased vs. unbiased survey results.
 
-After plotting the biased results, however, I have the lingering doubt of how to confirm that
-the original data is unbiased.
+I also printed the means of each the original pmf and biased_pmf to get a quick numeric summary to quickly
+contextualize the information in the graphs. They look correct.
 
 # Code
 ### import relevant modules
