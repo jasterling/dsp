@@ -1,6 +1,6 @@
 [Think Stats Chapter 4 Exercise 2](http://greenteapress.com/thinkstats2/html/thinkstats2005.html#toc41) (a random distribution)
 
->> Yes, the distribution of randomly generated numbers is is uniform.
+>> Yes, the distribution of randomly generated numbers is uniform.
 
 # Problem
 In this case the sample is random and its distribution is uniform. It may deviated slightly, however with a large enough sample
