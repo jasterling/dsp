@@ -1,12 +1,12 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
->> No results because I don't yet know where the data is coming from. Unsure of how
-to incorporate the data into the actual code.
+>> I'm coming back to this...
 
+# Answer description
 Below is my answer for comparing the cohen's d of weight and length in first babies
 to a mother and those that come afterwards.
 
-# Code below:
+# Code 
 
 def differences(live, first, others)
     first_weight_mean = first.totalwgt_lb.mean()
