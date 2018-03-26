@@ -100,7 +100,7 @@ Plugging into Bayes Theorem then gives us the result of **.0865**.
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Bayesian statistics is more concerned with utilizing prior information or observation to improve the accuracy of a probability estimation, whereas frequentist statistics depends more heavily on confidence intervals.
 
 ---
 
