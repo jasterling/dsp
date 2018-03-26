@@ -1,8 +1,8 @@
 [Think Stats Chapter 5 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2006.html#toc50) (blue men)
 
->> 34.xx%
+>> 34.27%
 
-##Answer Explanation & Code
+## Answer Explanation & Code
 The simplest way to derive the answer is to use the summary statistics of the male heights from the brfss survey which are provided in the text. (mu = 178cm; omega = 7.7cm)/
 
 Convert heights to (cm) from (ft,in).
@@ -20,7 +20,7 @@ Subtract the short percentile range from the tall percentile range to be left wi
     us_blue_men_pct = (cdf_tall - cdf_short) * 100
     print(us_blue_men_pct)
     
-$$$It is slightly more fun to start from a half-step back and derive your own summary statistics. For this, I went the following route:
+### It is slightly more fun to start from a half-step back and derive your own summary statistics. For this, I went the following route:
 
 Import required modules
 
