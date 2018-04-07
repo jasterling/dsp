@@ -20,7 +20,16 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > $ pwd = show current working directory path
+> > $ mkdir = make a directory
+> > $ rmdir = delete a directory (must be empty)
+> > $ touch <filename> = creates a file
+> > $ rm = deletes a file
+> > $ mv <existing_name> <new_name> = rename a file
+> > $ ls -a = show all files, including hidden
+> > $ cp <old_path> <new_path> = copies a file from one directory to another
+> > $ man <command> = provides explanation of command and its arguments
+> > $ chmod <arg> = allows you to edit the access permissions to a file or dir
 
 ---
 
@@ -35,7 +44,14 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > $ ls = list files in current directory
+> > $ ls -a = list all files, including hidden, in curr dir
+> > $ ls -l = 'long' list files in current directory
+> > $ ls -l = 'long' list files, with file size notated with MB, KB, etc.
+> > $ ls -lah = long list all files, including hidden, with size notated
+> > $ ls -t = list and sort by time modified
+> > $ ls -Glp = enable colorized output for listed files, add '\' to indicate path is a directory
+
 
 ---
 
@@ -43,7 +59,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > $ ls -x = lists files as individual rows
+> > $ ls -R = includes subdirectories in list of files
+> > $ ls -d = displays only directories
+> > $ ls -m = displays files separated by commas
+> > $ ls -u = displays file ranked by access time
 
 ---
 
@@ -51,7 +71,8 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > xargs is used when combining multiple commands.
+> > ex. $ find . -name "*.md" | xargs rm -rf
 
  
 
